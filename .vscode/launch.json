@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "UnionAndIntersectionOfTwSortedArrays",
+            "request": "launch",
+            "mainClass": "Misha.UnionAndIntersectionOfTwSortedArrays",
+            "projectName": "DSA-mine_3df97b1"
+        },
+        {
+            "type": "java",
+            "name": "DuplicateInArray",
+            "request": "launch",
+            "mainClass": "Misha.DuplicateInArray",
+            "projectName": "DSA-mine_3df97b1"
+        },
+        {
+            "type": "java",
             "name": "Subarray_WithSumZero",
             "request": "launch",
             "mainClass": "Misha.Subarray_WithSumZero",

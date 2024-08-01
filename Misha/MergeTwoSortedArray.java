@@ -12,7 +12,7 @@ class MergeTwoSortedArray{
         while(i<n && j<m){
             if(arr1[i]<arr2[j]){
                 i++;
-                continue;
+                continue; 
             }else{
                 int temp=arr1[k];
                 arr1[k]=arr2[j];
