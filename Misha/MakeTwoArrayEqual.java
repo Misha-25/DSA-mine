@@ -3,7 +3,7 @@ package Misha;
 import java.util.Arrays;
 
 public class MakeTwoArrayEqual {
-    public static boolean canbeEqual(int target[], int arr[]){
+    public static boolean canbeEqual (int target[], int arr[]){
         Arrays.sort(target);
         Arrays.sort(arr);
         return Arrays.equals(target, arr);
