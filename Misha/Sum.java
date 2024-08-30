@@ -13,6 +13,6 @@ public class Sum {
             }
             sum=sum+i;
         }
-        System.out.println(sum);
+                System.out.println(sum);
     }
 }
