@@ -1,4 +1,4 @@
-package Misha;
+package Misha.String;
 
 public class StringToCharacters {
     public static void main(String[] args) {

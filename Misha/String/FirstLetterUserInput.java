@@ -1,4 +1,4 @@
-package Misha;
+package Misha.String;
 
 import java.util.Scanner;
 
@@ -9,7 +9,7 @@ public class FirstLetterUserInput {
  String first = sc.nextLine();
  System.out.println("enter last name");
  String last = sc.nextLine();
- String initials = first.substring(0,1) + " " + last.substring(0,1);
+ String initials = first.substring(4,5) + " " + last.substring(8,9);
  System.out.println(initials);  
  sc.close();     
     }

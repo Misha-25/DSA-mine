@@ -1,4 +1,4 @@
-package Misha;
+package Misha.String;
 
 import java.util.Scanner;
 
