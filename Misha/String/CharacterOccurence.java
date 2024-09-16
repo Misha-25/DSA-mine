@@ -14,6 +14,9 @@ public class CharacterOccurence {
             countA++;
             break;
             case 'b' :
+         
+           
+           
             countB++;
             break;
             case 'c' :
