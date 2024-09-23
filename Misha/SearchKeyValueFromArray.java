@@ -12,6 +12,7 @@ public class SearchKeyValueFromArray {
     }
     
 
+    
 public static void main(String[] args) {
     int sol = SearchValue(new int[]{12,24,36,56,78,90},36);
     System.out.println(sol);
