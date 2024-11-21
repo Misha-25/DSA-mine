@@ -1,4 +1,4 @@
-package Misha;
+package Misha.Patterns;
 
 public class NumberPattern {
     public static void main(String[] args) {
