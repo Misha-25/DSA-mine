@@ -1,5 +1,6 @@
-package Misha.String.Patterns;
+package Misha.Patterns;
 
 public class Pattern3 {
+    
     
 }

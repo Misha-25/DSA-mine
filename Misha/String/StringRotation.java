@@ -7,7 +7,7 @@ public class StringRotation {
     }
     public static void main(String[] args) {
         String str1 = "AACD";
-        String str2 = "ACDE";
+        String str2 = "ACDEF";
         if(areRotaions(str1,str2)){
             System.out.println("Yes are rotation");
         }
